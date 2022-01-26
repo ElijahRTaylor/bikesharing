@@ -53,3 +53,5 @@ After looking at this data, we can have the following takeaways.
 Some additional visualizations that would also be helpful would be to create a pie chart that showed the amount of rides taken by users of various age group demographics.  We could create a Calculation that would grouup users by age buckets such as 20-29, 30-39, 40-49, etc.  This would allow us to know if this is something that could be comparable to that of the population of Des Moine.  
 
 Another great visualization that could help us would be if we created a line graph that compared age to length of average ride.
+
+[A Tableau Story of These Visualizations Can Be Found HERE](https://public.tableau.com/views/CITIBIKECHALLENGE/CitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
