@@ -46,6 +46,10 @@ The same holds true even when we filter the chart by gender.
 When we create a visualization to show the amount of trips by the weekday and the hour, we see that the most popular times these bikes are being used are during the rush hour periods.
 
 
+<img width="1061" alt="Screen Shot 2022-01-27 at 12 32 41 AM" src="https://user-images.githubusercontent.com/87248687/151298395-8fa558e1-9a98-4e59-ad54-15030ecc3a3d.png">
+
+When we filter our heat map by gender, we can see that regardless of gender, bike usage appears to peak during the same time frames.
+
 
 
 ![Screen Shot 2022-01-26 at 12 51 32 AM](https://user-images.githubusercontent.com/87248687/151110770-789932fe-8178-460a-8c6b-1763bedea55d.png)
